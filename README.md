@@ -2,7 +2,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=32C7FA&width=550&lines=Flutter+Developer;Full+Stack+App+Developer;Cross+Platform+Engineer;Mobile+App+Specialist&center=true&duration=3000">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=32C7FA&width=550&lines=Flutter+Developer;Full+Stack+App+Developer;Cross+Platform+Engineer;Mobile+App+Developer&center=true&duration=3000">
 </p>
 
 
