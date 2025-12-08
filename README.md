@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <a href="https://harshkumar-blush.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://harshkumar-psi.vercel.app//">🌐 Portfolio</a> •
   <a href="mailto:harshchhabria399@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/harsh-kumar-58a579260">💼 LinkedIn</a> •
 </p>
